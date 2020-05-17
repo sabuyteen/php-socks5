@@ -1,6 +1,10 @@
 # socks5-proxy
 Socks5 proxy written in PHP based on [workerman](https://github.com/walkor/Workerman). Now with username/password authentication according to RFC 1929.
 
+**ติดตั้ง PHP กับ COMPOSER ก่อน
+
+sudo apt install php libapache2-mod-php php-mysql composer -y
+
 ## Install
 1. ```git clone https://github.com/walkor/php-socks5```
 
