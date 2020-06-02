@@ -6,7 +6,7 @@ Socks5 proxy written in PHP based on [workerman](https://github.com/walkor/Worke
 sudo apt install php libapache2-mod-php php-mysql composer -y
 
 ## Install
-1. ```git clone https://github.com/walkor/php-socks5```
+1. ```git clone https://github.com/sabuyteen/php-socks5```
 
 2. ```composer install```
 
